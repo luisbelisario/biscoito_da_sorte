@@ -4,15 +4,18 @@
     width: 100%;
     justify-content: center;
     align-items: center;
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .img {
+    width: 300px;
+    height: 300px;
     margin-top: 20px;
 }
 
 .textoFrase {
     font-style: italic;
+    font-size: 16px;
     color: #D2691E;
 }
 
